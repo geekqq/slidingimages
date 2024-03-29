@@ -1,4 +1,4 @@
-# STOP WATCH SITE IN ONE MINUTE
+# SLIDING IMAGES SITE IN ONE MINUTE
 ![image](https://github.com/geekqq/slidingimages/assets/53326015/ef4188ff-49f0-41f9-927e-f94e780bb96d)
 
 - clone this repo
